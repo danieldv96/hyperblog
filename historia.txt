@@ -6,7 +6,7 @@ Anita Platzi es una persona que contribuye a este proyecto open source y nació 
 
 Experimennnnnnnttttttttttto 1
 
-Experimento 2
+Exper 2
 
 añado esto desde main 
 
@@ -23,3 +23,4 @@ Master 1
 Master 2
 
 Mañana nos enfocaremos en su vida laboral
+añado esto en el 26
