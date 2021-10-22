@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-Este es un texto plano
-
-freddy escribio muchas cosas y ahora adiciono cosas
-en una linea nueva 
-
-yo también lo hare
-=======
 Esta es la historia de Freddy Vega
 
 Freddy Vega tiene 32 años y nació en Colombia
@@ -16,9 +8,10 @@ Experimento 1
 
 Experimento 2
 
+esto lo añado para mirar Platzi
+
 Master 1
 
 Master 2
 
 Mañana nos enfocaremos en su vida laboral
->>>>>>> 0cc672ac066f4d118205aaca7da635219df00e48
